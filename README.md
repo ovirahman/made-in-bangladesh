@@ -35,7 +35,7 @@ A curated list of awesome frameworks, libraries and software made in Bangladesh
     * [proshoumma/organigram](https://github.com/proshoumma/organigram) - A JSON based tree structure with drag and drop functionally to re-arrange the tree.
     * [agontuk/react-native-collapsible-toolbar](https://github.com/Agontuk/react-native-collapsible-toolbar) - Pure JS based collapsible toolbar for react native on Android and iOS
     * [agontuk/react-native-geolocation-service](https://github.com/Agontuk/react-native-geolocation-service) - React native geolocation service for iOS and android
-
+    * [ovirahman/bd-interactive-map-v2](https://github.com/ovirahman/bd-interactive-map-v2) - An interactive map of bangladesh using javascript. 
 - Kotlin
     * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - A simple Kotlin library to Query over Json Data.
     * [s4kibs4mi/PultusORM](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin / Java / Android.
